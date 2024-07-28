@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GBSB.bbibbo.BbibboApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-28T08:22:43" hostname="DESKTOP-PU0PPH3" time="1.136">
+  <properties/>
+  <testcase name="contextLoads()" classname="GBSB.bbibbo.BbibboApplicationTests" time="1.136"/>
+  <system-out><![CDATA[17:22:41.108 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [GBSB.bbibbo.BbibboApplicationTests]: BbibboApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:22:41.278 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration GBSB.bbibbo.BbibboApplication for test class GBSB.bbibbo.BbibboApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2024-07-28T17:22:41.972+09:00  INFO 3132 --- [bbibbo] [    Test worker] GBSB.bbibbo.BbibboApplicationTests       : Starting BbibboApplicationTests using Java 17.0.12 with PID 3132 (started by user in C:\Users\user\Desktop\bbibbo)
+2024-07-28T17:22:41.975+09:00  INFO 3132 --- [bbibbo] [    Test worker] GBSB.bbibbo.BbibboApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-07-28T17:22:43.437+09:00  INFO 3132 --- [bbibbo] [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-07-28T17:22:43.870+09:00  INFO 3132 --- [bbibbo] [    Test worker] GBSB.bbibbo.BbibboApplicationTests       : Started BbibboApplicationTests in 2.321 seconds (process running for 4.062)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
